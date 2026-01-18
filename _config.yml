@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "FEA Analyst | CAE Engineer"
   location         : "Vancouver, Canada"
-  employer         : "Red Brick University"
+  employer         : "Cespira, Volvo Trucks"
   uri              : # URL
   email            : "pramodsmailbox@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/pramod02/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
